@@ -1,0 +1,76 @@
+{
+    "version":  1,
+    "released_at":  "2026-10-29T16:05:04Z",
+    "files":  [
+                  {
+                      "path":  "hashes/md5_blocklist.txt",
+                      "sha256":  "3bd9d24d70ce4e34adc71ba7cacb6cf411c58bc90f1c6d77a3d848b0710bbd9f",
+                      "size":  443
+                  },
+                  {
+                      "path":  "hashes/sha256_blocklist.txt",
+                      "sha256":  "f6f7bc0e215fa8b81b997de1074309b783b5fb5c2ed805836697f7cb9839a412",
+                      "size":  913
+                  },
+                  {
+                      "path":  "yara/malware/backdoor.yar",
+                      "sha256":  "4b03c0ffc7fc5010a099493cd6d96aeaa57ebce07e59d0d49fd5eb3caf33c673",
+                      "size":  2153
+                  },
+                  {
+                      "path":  "yara/malware/cross_platform.yar",
+                      "sha256":  "c75c333266b6ed58c342a589cce9d66228169c1570be34827919cc9fe90d8ecd",
+                      "size":  9873
+                  },
+                  {
+                      "path":  "yara/malware/linux_malware.yar",
+                      "sha256":  "14024f2dd3266810361272f61d4b9f6ce946aa51dbd8f4e941e24be956fa3b7f",
+                      "size":  13978
+                  },
+                  {
+                      "path":  "yara/malware/linux_trojan.yar",
+                      "sha256":  "cb34a09c71b7b24bfe2ad26b6316d7d67c6f73c74bd71a4b28e9d5a945bc9126",
+                      "size":  8739
+                  },
+                  {
+                      "path":  "yara/malware/macos_malware.yar",
+                      "sha256":  "0590b4a101a57559eb728df4de416bf3075e6a90d71d941eeddea2d01c4cf771",
+                      "size":  14029
+                  },
+                  {
+                      "path":  "yara/malware/ransomware.yar",
+                      "sha256":  "a95b0eb67c46293158554b53545dc284b60a7530c05be499075fadb9b060b5cb",
+                      "size":  1628
+                  },
+                  {
+                      "path":  "yara/malware/trojan.yar",
+                      "sha256":  "5e32afbe0dc875ca847e1c39d976c3f796accbb6b52c6a50d0ad400658ea0697",
+                      "size":  1869
+                  },
+                  {
+                      "path":  "yara/malware/worm.yar",
+                      "sha256":  "c0037496a7f8037968007d1b5b9de87af13b44f65151d4ec6ceb7ca935250caf",
+                      "size":  1941
+                  },
+                  {
+                      "path":  "yara/packer/common_packers.yar",
+                      "sha256":  "d2f07b777729c841a5795a6456557c6acb4636d5f1ba4f228fbd4c664a28d2fa",
+                      "size":  2199
+                  },
+                  {
+                      "path":  "yara/packer/upx.yar",
+                      "sha256":  "ea78a253e9dd152384a7550da234ef21005b156751d21407aa625730c21861e4",
+                      "size":  987
+                  },
+                  {
+                      "path":  "yara/pua/potentially_unwanted.yar",
+                      "sha256":  "9106cf7e5acbb1421b9c9e7de3b63599bf3e4862028da4c493453a130f407b13",
+                      "size":  2784
+                  },
+                  {
+                      "path":  "yara/test/eicar.yar",
+                      "sha256":  "c4a358ccb9a900f14f0dc201ea1847a059e041f53126c1d8d24de6fb9e34d5a4",
+                      "size":  676
+                  }
+              ]
+}
